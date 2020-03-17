@@ -14,14 +14,14 @@
 
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
-- [ ]  Create a forked copy of this project.
-- [ ]  Add your team lead as collaborator on Github.
-- [ ]  Clone your OWN version of the repository in your terminal
-- [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
-- [ ]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm start`
-- [ ]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ]  Push commits: git push origin `<firstName-lastName>`.
+- [Y]  Create a forked copy of this project.
+- [Y]  Add your team lead as collaborator on Github.
+- [Y]  Clone your OWN version of the repository in your terminal
+- [Y]  CD into the project base directory `cd React-Components-Insta-Clone`
+- [Y]  Download project dependencies by running `npm install`
+- [Y]  Start up the app using `npm start`
+- [Y]  Create a new branch: git checkout -b `<firstName-lastName>`. Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [Y]  Push commits: git push origin `<firstName-lastName>`.
 
 ### **Tasks**
 
